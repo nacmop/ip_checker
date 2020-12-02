@@ -1,0 +1,13 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IP checker</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="loading_text">Отримання IP</string>
+    <string name="about">Про програму</string>
+    <string name="by_turleo">від turleo</string>
+    <string name="using">В додатку використовується:</string>
+    <string name="Logo">Логотип</string>
+    <string name="rate_us_5_stars">Поставте додатку 5 зірок</string>
+    <string name="author_github">GitHub автора</string>
+</resources>
